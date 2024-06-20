@@ -235,19 +235,19 @@ footer{
 }
 @keyframes trs {
     0%{
-        background: url(../media/images/r1.webp);
+        background: url(r1.webp);
         background-position: 100% 100%;
         background-size: 100% 100%;
         filter: opacity(100%);
     }
     25%{
-        background: url(../media/images/r2.webp);
+        background: url(r2.webp);
         filter: opacity(0%);
         background-position: 100% 100%;
         background-size: 100% 100%;
     }
     30%{
-        background: url(../media/images/r3.webp);
+        background: url(r3.webp);
         filter: opacity(100%);
         background-position: 100% 100%;
         background-size: 100% 100%;
@@ -256,7 +256,7 @@ footer{
         filter: opacity(0%);
     }
     75%{
-        background: url(../media/images/r4.png);
+        background: url(r4.png);
         filter: opacity(100%);
         background-position: 100% 100%;
         background-size: 100% 100%;
@@ -265,7 +265,7 @@ footer{
         filter: opacity(0%);
     }
     100%{
-        background: url(../media/images/slideshow1.png);
+        background: url(slideshow1.png);
         filter: opacity(100%);
         background-position: 100% 100%;
         background-size: 100% 100%;
